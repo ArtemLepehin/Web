@@ -1,0 +1,13 @@
+.error-content{
+    width: 1520px;
+    margin: 250px auto;
+}
+.error-content p{
+    font-size: 25px;
+}
+
+.error-content p a{
+    text-decoration: none;
+    color: #841844;
+    font-weight: 600;
+}

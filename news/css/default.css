@@ -1,0 +1,50 @@
+body{
+    font-family: Open Sans;
+    font-weight: 400;
+    font-style: normal;
+    /* color: #1266e4; */
+    color: #000;
+
+    font-size: 20px;
+}
+.container{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.nav{
+    display: flex;
+    padding: 40px 200px;
+}
+.logo{
+    margin-right: 24px;
+}
+.menu-link{
+    font-family: Segoe UI;
+    color: #2C145E;
+    font-size: 28px;
+    line-height: 132%;
+    letter-spacing: 3.5px;
+    text-transform: uppercase;
+    text-decoration: none;
+    max-width: 273px;
+}
+.hr-line0, .title, .content p, .news-title, .news-box p, .news-box h2{
+    margin: 0;
+}
+
+/* footer */
+
+
+.footer-content{
+    width: 1520px;
+    margin: 0 auto;
+}
+.hr-line{
+    margin-bottom: 64px;
+}
+.author{
+    line-height: 160%; /* 32px */
+}
+.footer{
+    margin-bottom: 85px;
+}
